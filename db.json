@@ -1,12 +1,22 @@
 {
   "apiEndpoint" : [
-    {
-      "name" : "UMA",
-      "skills" : ["javaScript", "node.js", "react.js"]
+        {
+        "id": 1,
+        "name": "Mohan",
+        "email": "8096592423"
+
     },
     {
-      "name":"RADHA",
-      "skills" : ["Adobe Illustrator", "Adobe After effects"]
+        "id": 2,
+        "name": "Srikanth",
+        "email": "7032065333"
+
+    },
+    {
+        "id": 3,
+        "name": "Satish",
+        "email": "9676872050"
+
     }
   ]
 }
